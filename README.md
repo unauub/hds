@@ -36,3 +36,7 @@ In this step we've start we 3 model:
 * Random Forest Classifier
 
 But we've found that ****LogisticRegression**** give us the best result
+
+
+For any other question let me 
+SEE YOU :) !!
